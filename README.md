@@ -12,7 +12,7 @@ My current skills are listed below and will be updated as I learn more!
   
 ### 📖 What I'm Currently Learning
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" title="Python" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" title="Python" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" title="Flask" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" title="MongoDB" width="50px" height="50px" /> 
 
 ### 🚀 GitHub Stats 
 
