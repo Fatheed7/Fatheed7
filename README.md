@@ -13,8 +13,7 @@ My current skills are listed below and will be updated as I learn more!
   
 ### 📖 What I'm Currently Learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django logo" title="Django" width="50px" height="50px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" title="PostgreSQL" width="50px" height="50px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django logo" title="Django" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" title="PostgreSQL" width="50px" height="50px" />
 
 ### 🚀 GitHub Stats 
 
