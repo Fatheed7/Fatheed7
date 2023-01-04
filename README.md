@@ -1,7 +1,5 @@
 ### Hey there 👋 I'm Jason
 
-I'm currently working towards a Diploma in Web Application Development with Code Instite & Newcastle College
-
 This page is currently (very much) a work-in-progress and I'll be looking to update this further ASAP! 
 
 My current skills are listed below and will be updated as I learn more!
