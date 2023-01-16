@@ -20,10 +20,3 @@ My current skills are listed below and will be updated as I learn more!
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React logo" title="React" width="50px" height="50px" />
 
-
-### 🚀 GitHub Stats 
-
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatheed7&hide=contribs,prs&show_icons=true&theme=dracula)
-                                                                                                                                       
-![Jason's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatheed7&layout=compact&theme=dracula)
-
