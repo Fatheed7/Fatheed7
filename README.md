@@ -1,8 +1,6 @@
 ### Hey there 👋 I'm Jason
 
-This page is currently (very much) a work-in-progress and I'll be looking to update this further ASAP! 
-
-My current skills are listed below and will be updated as I learn more!
+Junior Full Stack Developer living in Newcastle, UK. Currently employed at Code Institute as a Software Developer & Learning Success Tutor.
 
 ### ⚒️ Skills
 
