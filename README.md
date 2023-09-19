@@ -12,9 +12,9 @@ Full Stack Developer living in Newcastle, UK. Currently employed at Code Institu
 - #### 🔧 Tools & Frameworks
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" title="Bootstrap" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo" title="VSCode" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" title="Flask" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" title="MongoDB" width="50px" height="50px" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django logo" title="Django" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" title="PostgreSQL" width="50px" height="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django logo" title="Django" width="50px" height="50px" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL logo" title="PostgreSQL" width="50px" height="50px" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React logo" title="React" width="50px" height="50px" />
   
 - #### 📖 What I'm Currently Learning
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React logo" title="React" width="50px" height="50px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# logo" title="C#" width="50px" height="50px" />
 
