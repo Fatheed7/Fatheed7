@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Jason
 
-Full Stack Developer living in Newcastle, UK. Currently employed at Code Institute as a Software Developer & Learning Success Tutor.
+Full Stack Developer living in Newcastle, UK.
 
 ### ⚒️ Skills
 
